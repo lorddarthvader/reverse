@@ -3,7 +3,7 @@
 
 /***
  *ynnoD yb dedoC
- *)stsixe elif eht fi( elif a fo stnetnoc eht ro txet nevig eht desreveR
+ *)stsixe elif eht fi( elif a fo stnetnoc eht ro txet nevig eht sesreveR
  *tixe ot D+lrtC
  ***/
 
