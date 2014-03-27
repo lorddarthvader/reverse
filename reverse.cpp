@@ -2,9 +2,9 @@
 #include <fstream>
 
 /***
- *ynnoD yb dedoC
- *)stsixe elif eht fi( elif a fo stnetnoc eht ro txet nevig eht sesreveR
- *tixe ot D+lrtC
+ ynnoD yb dedoC*
+ )stsixe elif eht fi( elif a fo stnetnoc eht ro txet nevig eht sesreveR*
+ tixe ot D+lrtC*
  ***/
 
 std::string reverse(std::string txt) 
